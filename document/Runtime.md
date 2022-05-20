@@ -24,12 +24,15 @@ $ pip install Django==1.10.6
 python.exe .\manage.py runserver 8000
 ```
 ![](./picture/write.png)
+
 保存
 
 将文件名后缀改为`.bat`
+
 ![](./picture/change_name.png)
 
 双击运行
+
 ![](./picture/click_run.png)
 
 ## Powershell
