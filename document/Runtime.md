@@ -15,6 +15,24 @@ Python 3.5版本
 $ pip install Django==1.10.6
 ```
 # 执行
+## 批处理命令脚本
+新建一个文本文档
+![](./picture/touch_txt.png)
+
+将运行命令复制进去
+```bash
+python.exe .\manage.py runserver 8000
+```
+![](./picture/write.png)
+保存
+
+将文件名后缀改为`.bat`
+![](./picture/change_name.png)
+
+双击运行
+![](./picture/click_run.png)
+
+## Powershell
 将项目解压到本地文件夹
 
 在`manage.py`所在路径下，同时按下`shift`和鼠标右键
