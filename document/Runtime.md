@@ -53,6 +53,13 @@ python.exe .\manage.py runserver 8000
 localhost:8000
 ```
 即可成功运行
+## 关于Python不同版本并存的问题
+python3.5在使用Vscode Python最新扩展时会提示请使用旧的debugger，目前的解决方法是，安装新版本Python(例如3.9)
+
+在运行被测项目时，命令改为
+```bash
+py -3.5 manage.py runserver 8000
+```
 
 ## 参考链接
 - 原项目地址：https://github.com/Shuai-Xie/flight-ticket-booksystem
