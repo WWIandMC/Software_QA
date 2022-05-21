@@ -64,6 +64,8 @@ python3.5在使用Vscode Python最新扩展时会提示请使用旧的debugger�
 py -3.5 manage.py runserver 8000
 ```
 
+推荐安装顺序: 3.9->配置vscode debugger->安装3.5
+
 ## 参考链接
 - 原项目地址：https://github.com/Shuai-Xie/flight-ticket-booksystem
 - 博客：https://www.jianshu.com/p/60a392df9f03

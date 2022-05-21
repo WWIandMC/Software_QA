@@ -1,0 +1,23 @@
+user|123@163.com|123456|
+a|user@163.com|123456|
+admin123456|user@163.com|123456|
+龙傲天|user@163.com|123456|
+dyx|user@163.com|123456|
+1822|user@163.com|123456|
+select *|user@163.com|123456|
+'delete|user@163.com|123456|
+demo|user@163.com|123456|
+super|user@163.com|123456|
+abs|user@163.com|123456|
+abandon|1@16|123456|
+wrap|user@163.com|123456|
+local|1235@163.com|123456|
+host|user@163.com|123456|
+lombok|12365|123456|
+person|##$@163.com|123456|
+mybat|user@163.com|3345678|
+cat|user@163.com|12365|
+dog|user@163.com|12345678901|
+elephant|user@163.com|thefirst|
+lion|user@163.com|18229100|
+tiger|user@163.com|*#$%@!'/|
