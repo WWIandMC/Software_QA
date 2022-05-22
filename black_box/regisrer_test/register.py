@@ -21,11 +21,13 @@ def main():
             Email_Address = driver.find_element(by=By.XPATH, value='//*[@id="id_email"]')
             Password = driver.find_element(by=By.XPATH, value='//*[@id="id_password"]')
 
+            # 填写注册信息
             User_Info = str.split(table, "|")
             UserName.send_keys(User_Info[0])
             Email_Address.send_keys(User_Info[1])
             Password.send_keys(User_Info[2])
 
+            # 点击注册按钮
             send_box = driver.find_element(by=By.XPATH, value='/html/body/div/div/div/div/div[1]/form/div[4]/div/button')
             send_box.click()
 
